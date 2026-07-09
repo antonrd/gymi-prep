@@ -1,0 +1,7 @@
+# Reference screenshots (dev-only, not part of the app)
+images/*.png
+images/*.jpg
+images/*.jpeg
+
+# Original prompt notes
+initial_prompt.txt
