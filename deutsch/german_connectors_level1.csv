@@ -1,0 +1,45 @@
+ID,German connector,English meaning,Type,Category,Word order rule,CEFR estimate,ZAP importance,ZAP relevance,Gap count,Commonly confused with,Notes
+C01,und,and,Conjunction,Addition,Position 0 (does not affect word order),A1,★★★★★,Yes,1,,Essential for linking actions or items.
+C02,aber,but / however,Conjunction,Contrast,Position 0 (does not affect word order),A1,★★★★★,Yes,1,sondern,Used for limitations. Needs a comma before it.
+C03,denn,because / for,Conjunction,Reason,Position 0 (does not affect word order),A2,★★★★★,Yes,1,weil / da,Requires main clause word order (Subject + Verb right after).
+C04,sondern,but (rather),Conjunction,Contrast,Position 0 (does not affect word order),A2,★★★★★,Yes,1,aber,Only used after a negative statement (nicht/kein).
+C05,oder,or,Conjunction,Alternative,Position 0 (does not affect word order),A1,★★★★★,Yes,1,,Offers alternatives between choices.
+S01,weil,because,Subordinating Conjunction,Reason,Verb moves to the very end of the clause,A2,★★★★★,Yes,1,denn / da,The classic ZAP trap. Verb-last structure is heavily tested.
+S02,obwohl,although / even though,Subordinating Conjunction,Contrast,Verb moves to the very end of the clause,B1,★★★★★,Yes,1,trotzdem,Contrasts a fact. Commonly confused with the adverb 'trotzdem'.
+S03,dass,that,Subordinating Conjunction,Complement,Verb moves to the very end of the clause,A2,★★★★★,Yes,1,das,Crucial spelling and grammar test (double 's' vs. relative pronoun).
+S04,wenn,if / when,Subordinating Conjunction,Condition / Time,Verb moves to the very end of the clause,A1,★★★★★,Yes,1,als,"Used for present, future, or repeated past events."
+S05,als,when (past single event),Subordinating Conjunction,Time,Verb moves to the very end of the clause,A2,★★★★★,Yes,1,wenn,Only used for a specific single event or period in the past.
+S06,bevor,before,Subordinating Conjunction,Time,Verb moves to the very end of the clause,A2,★★★★,Yes,1,ehe,The action in the main clause happens first.
+S07,nachdem,after,Subordinating Conjunction,Time,Verb moves to the very end of the clause,B1,★★★★,Yes,1,danach,"Often requires a change in tense (e.g., Perfekt with Präsens)."
+S08,während,while / during,Subordinating Conjunction,Time / Contrast,Verb moves to the very end of the clause,B1,★★★★,Yes,1,,Simultaneous actions. Don't confuse with the preposition.
+S09,bis,until,Subordinating Conjunction,Time,Verb moves to the very end of the clause,A2,★★★★,Yes,1,,Marks the end point of an action or duration.
+S10,seitdem,since (time),Subordinating Conjunction,Time,Verb moves to the very end of the clause,B1,★★★,Yes,1,seit,Action started in the past and continues to the present.
+S11,sobald,as soon as,Subordinating Conjunction,Time,Verb moves to the very end of the clause,B1,★★★★,Yes,1,,Emphasizes the immediate starting point of an action.
+S12,solange,as long as,Subordinating Conjunction,Time / Condition,Verb moves to the very end of the clause,B1,★★★★,Yes,1,,Expresses simultaneous duration of two actions.
+S13,falls,in case / if,Subordinating Conjunction,Condition,Verb moves to the very end of the clause,B1,★★★★,Yes,1,wenn,Used when an event is conditional or uncertain.
+S14,damit,so that,Subordinating Conjunction,Purpose,Verb moves to the very end of the clause,A2,★★★★★,Yes,1,um ... zu,Used when subjects of main and subordinate clauses are different.
+S15,da,since / because,Subordinating Conjunction,Reason,Verb moves to the very end of the clause,B1,★★★★,Yes,1,weil,Often used when the reason is already known or at sentence start.
+S16,ob,whether / if,Subordinating Conjunction,Indirect Question,Verb moves to the very end of the clause,A2,★★★★★,Yes,1,wenn,Used for yes/no choices or uncertainty. Never interchangeable with 'wenn'.
+P01,entweder ... oder,either ... or,Paired Conjunction,Alternative,"First part variable position, second part Position 0",A2,★★★★★,Yes,2,,Requires two blanks in exercise generation.
+P02,weder ... noch,neither ... nor,Paired Conjunction,Negative Addition,"First part variable position, second part triggers inversion",B1,★★★★★,Yes,2,,Double negation. Second part flips verb-subject order.
+P03,sowohl ... als auch,as well as / both ... and,Paired Conjunction,Addition,Does not change word order structure inside items,A2,★★★★★,Yes,2,,Connects two positive parts equally.
+P04,nicht nur ... sondern auch,not only ... but also,Paired Conjunction,Addition,Second part behaves like 'sondern' (Position 0),A2,★★★★★,Yes,2,,Emphatic addition. Often tested together.
+P05,zwar ... aber,indeed ... but,Paired Conjunction,Contrast,"First part is an adverbial modifier, second part is Position 0",B1,★★★★,Yes,2,,Concedes a point in the first part before limiting it in the second.
+A01,deshalb,therefore / that's why,Conjunctive Adverb,Reason,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,weil / denn,Very common trap. Subject and Verb invert: Adverb + Verb + Subject.
+A02,deswegen,therefore,Conjunctive Adverb,Reason,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,deshalb / darum,Exact synonym to deshalb.
+A03,darum,therefore / for that reason,Conjunctive Adverb,Reason,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,deshalb / deswegen,Exact synonym to deshalb.
+A04,daher,hence / therefore,Conjunctive Adverb,Reason,Occupies Position 1 (Verb follows immediately),B1,★★★★,Yes,1,deshalb,Slightly more formal but common in reading comprehension.
+A05,trotzdem,nevertheless / anyway,Conjunctive Adverb,Contrast,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,obwohl,Often confused with 'obwohl'. 'Trotzdem' starts a main clause.
+A06,außerdem,besides / furthermore,Conjunctive Adverb,Addition,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,und,Adds information with inversion of subject and verb.
+A07,allerdings,however / though,Conjunctive Adverb,Contrast,Occupies Position 1 (Verb follows immediately),B1,★★★★,Yes,1,aber,Limits a previous statement. Strong structural indicator.
+A08,danach,afterwards / after that,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,nachdem,Indicates chronological order. Confused with subordinating 'nachdem'.
+A09,dann,then,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),A1,★★★★★,Yes,1,,Sequential time step.
+A10,schliesslich,finally / ultimately,Conjunctive Adverb,Time / Conclusion,Occupies Position 1 (Verb follows immediately),B1,★★★★,Yes,1,,Introduces a final point or a decisive reason.
+A11,plötzlich,suddenly,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),A2,★★★★★,Yes,1,,Crucial narrative connector for ZAP essays.
+A12,zuerst,first / at first,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),A1,★★★★★,Yes,1,,Starts a sequence of events.
+A13,später,later,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),A1,★★★★★,Yes,1,,Continues a narrative sequence.
+A14,sonst,otherwise,Conjunctive Adverb,Condition / Alternative,Occupies Position 1 (Verb follows immediately),A2,★★★★,Yes,1,,Shows what happens if the condition is not met.
+A15,inzwischen,meanwhile,Conjunctive Adverb,Time,Occupies Position 1 (Verb follows immediately),B1,★★★★,Yes,1,während,Indicates parallel events happening at the same time.
+A16,folglich,consequently,Conjunctive Adverb,Reason / Consequence,Occupies Position 1 (Verb follows immediately),B1,★★★,Yes,1,deshalb,Logical consequence marker.
+A17,entweder,either (standalone variant),Conjunctive Adverb,Alternative,Occupies Position 1 when isolated,A2,★★★★,Yes,1,,Part of paired group but can act as isolated modifier.
+A18,jedoch,however / though,Conjunctive Adverb,Contrast,Occupies Position 1 (Verb follows immediately),B1,★★★★,Yes,1,aber / doch,"Conjunctive adverb: triggers inversion (verb before subject), unlike coordinating 'aber'."

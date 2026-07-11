@@ -1,0 +1,394 @@
+Wenn ich am Abend Zeit habe, lese ich ein Buch.
+Falls ich am Abend Zeit habe, lese ich ein Buch.
+Wir gehen morgen in den Zoo, wenn das Wetter schön bleibt.
+Wir gehen morgen in den Zoo, falls das Wetter schön bleibt.
+Wir gehen morgen in den Zoo, sofern das Wetter schön bleibt.
+Immer wenn Lukas seine Grossmutter besucht, bekommt er Kuchen.
+Du darfst das Tablet benutzen, wenn du deine Hausaufgaben fertig hast.
+Du darfst das Tablet benutzen, falls du deine Hausaufgaben fertig hast.
+Wenn du die Gymi-Prüfung schaffen willst, musst du regelmässig üben.
+Als ich sechs Jahre alt war, lernte ich Velo fahren.
+Wir spielten gerade im Garten, als das grosse Gewitter losging.
+Als die Schule aus war, rannten alle Kinder erleichtert nach Hause.
+Sie freute sich sehr, als sie die Zusage für das Gymnasium im Briefkasten fand.
+Als wir letzten Sommer in den Ferien in Graubünden waren, sahen wir einen Steinbock.
+Entweder gehen wir heute ins Freibad oder wir bleiben zu Hause.
+Du kannst entweder das rote T-Shirt wählen oder du nimmst das blaue.
+Entweder lernen wir jetzt für Geometrie oder wir üben den Aufsatz.
+Zum Frühstück trinke ich immer eines von beiden: entweder Milch oder Orangensaft.
+Entweder fahren wir mit dem Tram oder wir gehen das kurze Stück zu Fuss.
+Ich habe weder meine Schulsachen eingepackt noch habe ich mein Heft dabei.
+Das Kind wollte weder Gemüse essen noch wollte es die Suppe probieren.
+Am Wochenende hatten wir weder Glück mit dem Wetter noch konnten wir wandern gehen.
+Lukas kann weder Französisch sprechen noch versteht er die englischen Vokabeln.
+Weder mein Bruder noch meine Schwester hat den Schlüssel dabei, deshalb kommen wir nicht ins Haus.
+Es regnete stark. Deshalb blieben wir den ganzen Nachmittag im Haus.
+Es regnete stark. Deswegen blieben wir den ganzen Nachmittag im Haus.
+Es regnete stark. Darum blieben wir den ganzen Nachmittag im Haus.
+Es regnete stark. Daher blieben wir den ganzen Nachmittag im Haus.
+Sie hat sehr fleissig geübt, deshalb hat sie die Gymi-Prüfung bestanden.
+Sie hat sehr fleissig geübt, deswegen hat sie die Gymi-Prüfung bestanden.
+Sie hat sehr fleissig geübt, darum hat sie die Gymi-Prüfung bestanden.
+Sie hat sehr fleissig geübt, daher hat sie die Gymi-Prüfung bestanden.
+Der Bus hatte eine Panne, deshalb kam ich zu spät zum Training.
+Der Bus hatte eine Panne, deswegen kam ich zu spät zum Training.
+Der Bus hatte eine Panne, darum kam ich zu spät zum Training.
+Der Bus hatte eine Panne, daher kam ich zu spät zum Training.
+Ich hatte meinen Ausweis vergessen, deshalb durfte ich nicht ins Stadion.
+Ich hatte meinen Ausweis vergessen, deswegen durfte ich nicht ins Stadion.
+Ich hatte meinen Ausweis vergessen, darum durfte ich nicht ins Stadion.
+Ich hatte meinen Ausweis vergessen, daher durfte ich nicht ins Stadion.
+Kati liebt Tiere über alles, deshalb möchte sie später Tierärztin werden.
+Kati liebt Tiere über alles, deswegen möchte sie später Tierärztin werden.
+Kati liebt Tiere über alles, darum möchte sie später Tierärztin werden.
+Kati liebt Tiere über alles, daher möchte sie später Tierärztin werden.
+Die Matheaufgabe war unglaublich kompliziert. Trotzdem fand Ben die richtige Lösung.
+Die Matheaufgabe war unglaublich kompliziert. Dennoch fand Ben die richtige Lösung.
+Es war sehr kalt draussen, trotzdem spielten die Kinder vergnügt auf dem Schulhof.
+Es war sehr kalt draussen, dennoch spielten die Kinder vergnügt auf dem Schulhof.
+Ich hatte eigentlich keine Zeit, trotzdem habe ich meiner Mutter im Garten geholfen.
+Ich hatte eigentlich keine Zeit, dennoch habe ich meiner Mutter im Garten geholfen.
+Der Wecker hat morgens nicht geklingelt, trotzdem ist er pünktlich aufgewacht.
+Der Wecker hat morgens nicht geklingelt, dennoch ist er pünktlich aufgewacht.
+Wir haben das Spiel knapp verloren, trotzdem hatten wir grossen Spass beim Turnier.
+Wir haben das Spiel knapp verloren, dennoch hatten wir grossen Spass beim Turnier.
+Ich blieb zu Hause, weil ich krank war.
+Ich blieb zu Hause, da ich krank war.
+Wir mussten drinnen bleiben, weil es den ganzen Tag regnete.
+Wir mussten drinnen bleiben, da es den ganzen Tag regnete.
+Sie übt jeden Tag, weil sie die Gymi-Prüfung bestehen will.
+Sie übt jeden Tag, da sie die Gymi-Prüfung bestehen will.
+Der Lehrer war zufrieden, weil alle Kinder die Aufgaben gelöst hatten.
+Der Lehrer war zufrieden, da alle Kinder die Aufgaben gelöst hatten.
+Lukas kam zu spät, weil sein Bus eine Panne hatte.
+Lukas kam zu spät, da sein Bus eine Panne hatte.
+Obwohl es stark regnete, gingen wir spazieren.
+Obschon es stark regnete, gingen wir spazieren.
+Obgleich es stark regnete, gingen wir spazieren.
+Er bestand die Prüfung, obwohl er kaum gelernt hatte.
+Er bestand die Prüfung, obschon er kaum gelernt hatte.
+Er bestand die Prüfung, obgleich er kaum gelernt hatte.
+Obwohl sie müde war, half sie ihrer Mutter im Garten.
+Obschon sie müde war, half sie ihrer Mutter im Garten.
+Obgleich sie müde war, half sie ihrer Mutter im Garten.
+Wir gewannen das Spiel, obwohl die andere Mannschaft stärker war.
+Wir gewannen das Spiel, obschon die andere Mannschaft stärker war.
+Wir gewannen das Spiel, obgleich die andere Mannschaft stärker war.
+Obwohl der Weg gefährlich aussah, wagten sie den Aufstieg.
+Obschon der Weg gefährlich aussah, wagten sie den Aufstieg.
+Obgleich der Weg gefährlich aussah, wagten sie den Aufstieg.
+Ich hoffe, dass du bald gesund wirst.
+Der Lehrer sagte, dass die Prüfung nächste Woche stattfindet.
+Es ist wichtig, dass wir pünktlich sind.
+Ich glaube, dass wir das Ziel gemeinsam erreichen können.
+Sie freute sich, dass ihre Freundin auch ins Gymnasium kommt.
+Ich wollte ins Freibad, aber es regnete den ganzen Tag.
+Ich wollte ins Freibad, doch es regnete den ganzen Tag.
+Der Film war lang, aber er war sehr spannend.
+Der Film war lang, doch er war sehr spannend.
+Sie lernte fleissig, aber die Prüfung blieb trotzdem schwierig.
+Sie lernte fleissig, doch die Prüfung blieb trotzdem schwierig.
+Wir hatten wenig Zeit, aber wir schafften die Wanderung.
+Wir hatten wenig Zeit, doch wir schafften die Wanderung.
+Das Zimmer war klein, aber sehr gemütlich.
+Das Zimmer war klein, doch sehr gemütlich.
+Das Zimmer war klein, jedoch sehr gemütlich.
+Wir gingen früh ins Bett, denn wir waren sehr müde.
+Er nahm den Regenschirm mit, denn es sah nach Regen aus.
+Ich muss jetzt lernen, denn morgen schreibe ich die Prüfung.
+Sie freute sich sehr, denn sie hatte die Aufnahmeprüfung bestanden.
+Wir mussten umkehren, denn der Wanderweg war gesperrt.
+Ich wollte ins Freibad, jedoch regnete es den ganzen Tag.
+Der Film war lang, jedoch war er sehr spannend.
+Sie lernte fleissig, jedoch blieb die Prüfung trotzdem schwierig.
+Wir hatten wenig Zeit, jedoch schafften wir die Wanderung.
+Er hatte die ganze Nacht gehustet, deswegen blieb er heute im Bett.
+Er hatte die ganze Nacht gehustet, deshalb blieb er heute im Bett.
+Er hatte die ganze Nacht gehustet, darum blieb er heute im Bett.
+Er hatte die ganze Nacht gehustet, daher blieb er heute im Bett.
+Der Zug fiel aus, deswegen mussten wir mit dem Bus fahren.
+Der Zug fiel aus, deshalb mussten wir mit dem Bus fahren.
+Der Zug fiel aus, darum mussten wir mit dem Bus fahren.
+Der Zug fiel aus, daher mussten wir mit dem Bus fahren.
+Sie hatte alles gut vorbereitet, deswegen war die Präsentation ein Erfolg.
+Sie hatte alles gut vorbereitet, deshalb war die Präsentation ein Erfolg.
+Sie hatte alles gut vorbereitet, darum war die Präsentation ein Erfolg.
+Sie hatte alles gut vorbereitet, daher war die Präsentation ein Erfolg.
+Es hatte tagelang geschneit, deswegen war die Passstrasse gesperrt.
+Es hatte tagelang geschneit, deshalb war die Passstrasse gesperrt.
+Es hatte tagelang geschneit, darum war die Passstrasse gesperrt.
+Es hatte tagelang geschneit, daher war die Passstrasse gesperrt.
+Ich habe meinen Schlüssel verloren, deswegen konnte ich nicht ins Haus.
+Ich habe meinen Schlüssel verloren, deshalb konnte ich nicht ins Haus.
+Ich habe meinen Schlüssel verloren, darum konnte ich nicht ins Haus.
+Ich habe meinen Schlüssel verloren, daher konnte ich nicht ins Haus.
+Es war schon spät, darum gingen wir nach Hause.
+Es war schon spät, deshalb gingen wir nach Hause.
+Es war schon spät, deswegen gingen wir nach Hause.
+Es war schon spät, daher gingen wir nach Hause.
+Der Hund bellte laut, darum wachte das Baby auf.
+Der Hund bellte laut, deshalb wachte das Baby auf.
+Der Hund bellte laut, deswegen wachte das Baby auf.
+Der Hund bellte laut, daher wachte das Baby auf.
+Sie hatte fleissig trainiert, darum gewann sie den Wettkampf.
+Sie hatte fleissig trainiert, deshalb gewann sie den Wettkampf.
+Sie hatte fleissig trainiert, deswegen gewann sie den Wettkampf.
+Sie hatte fleissig trainiert, daher gewann sie den Wettkampf.
+Das Eis auf dem See war zu dünn, darum durften wir nicht darauf.
+Das Eis auf dem See war zu dünn, deshalb durften wir nicht darauf.
+Das Eis auf dem See war zu dünn, deswegen durften wir nicht darauf.
+Das Eis auf dem See war zu dünn, daher durften wir nicht darauf.
+Er hatte die Aufgabe nicht verstanden, darum fragte er den Lehrer.
+Er hatte die Aufgabe nicht verstanden, deshalb fragte er den Lehrer.
+Er hatte die Aufgabe nicht verstanden, deswegen fragte er den Lehrer.
+Er hatte die Aufgabe nicht verstanden, daher fragte er den Lehrer.
+Der Weg war vereist, daher gingen wir besonders vorsichtig.
+Der Weg war vereist, deshalb gingen wir besonders vorsichtig.
+Der Weg war vereist, deswegen gingen wir besonders vorsichtig.
+Der Weg war vereist, darum gingen wir besonders vorsichtig.
+Die Aufgabe war schwierig, daher brauchten wir mehr Zeit.
+Die Aufgabe war schwierig, deshalb brauchten wir mehr Zeit.
+Die Aufgabe war schwierig, deswegen brauchten wir mehr Zeit.
+Die Aufgabe war schwierig, darum brauchten wir mehr Zeit.
+Das Wetter wurde schlechter, daher brachen wir die Wanderung ab.
+Das Wetter wurde schlechter, deshalb brachen wir die Wanderung ab.
+Das Wetter wurde schlechter, deswegen brachen wir die Wanderung ab.
+Das Wetter wurde schlechter, darum brachen wir die Wanderung ab.
+Sie hatte viel gelesen, daher kannte sie viele Wörter.
+Sie hatte viel gelesen, deshalb kannte sie viele Wörter.
+Sie hatte viel gelesen, deswegen kannte sie viele Wörter.
+Sie hatte viel gelesen, darum kannte sie viele Wörter.
+Der Laden hatte bereits geschlossen, daher gingen wir nach Hause.
+Der Laden hatte bereits geschlossen, deshalb gingen wir nach Hause.
+Der Laden hatte bereits geschlossen, deswegen gingen wir nach Hause.
+Der Laden hatte bereits geschlossen, darum gingen wir nach Hause.
+Er hatte nicht geübt, folglich machte er viele Fehler.
+Er hatte nicht geübt, deshalb machte er viele Fehler.
+Er hatte nicht geübt, deswegen machte er viele Fehler.
+Er hatte nicht geübt, darum machte er viele Fehler.
+Er hatte nicht geübt, daher machte er viele Fehler.
+Die Brücke war gesperrt, folglich mussten wir einen Umweg fahren.
+Die Brücke war gesperrt, deshalb mussten wir einen Umweg fahren.
+Die Brücke war gesperrt, deswegen mussten wir einen Umweg fahren.
+Die Brücke war gesperrt, darum mussten wir einen Umweg fahren.
+Die Brücke war gesperrt, daher mussten wir einen Umweg fahren.
+Sie hatte alle Punkte erreicht, folglich bestand sie die Prüfung mit Bestnote.
+Sie hatte alle Punkte erreicht, deshalb bestand sie die Prüfung mit Bestnote.
+Sie hatte alle Punkte erreicht, deswegen bestand sie die Prüfung mit Bestnote.
+Sie hatte alle Punkte erreicht, darum bestand sie die Prüfung mit Bestnote.
+Sie hatte alle Punkte erreicht, daher bestand sie die Prüfung mit Bestnote.
+Der Akku war leer, folglich konnte ich niemanden anrufen.
+Der Akku war leer, deshalb konnte ich niemanden anrufen.
+Der Akku war leer, deswegen konnte ich niemanden anrufen.
+Der Akku war leer, darum konnte ich niemanden anrufen.
+Der Akku war leer, daher konnte ich niemanden anrufen.
+Es hatte stark geregnet, folglich stieg der Fluss stark an.
+Es hatte stark geregnet, deshalb stieg der Fluss stark an.
+Es hatte stark geregnet, deswegen stieg der Fluss stark an.
+Es hatte stark geregnet, darum stieg der Fluss stark an.
+Es hatte stark geregnet, daher stieg der Fluss stark an.
+Ich packte meine Tasche und ging zur Schule.
+Wir kauften Brot und Käse für das Picknick.
+Die Sonne schien und die Vögel sangen.
+Sie lernte für die Prüfung und wiederholte alle Aufgaben.
+Wir wanderten auf den Berg und genossen die Aussicht.
+Ich möchte nicht ins Kino, sondern lieber ins Schwimmbad.
+Das ist kein Hund, sondern ein Wolf.
+Er wollte nicht lügen, sondern die Wahrheit sagen.
+Wir fahren nicht am Samstag, sondern am Sonntag.
+Sie ist nicht müde, sondern nur ein bisschen hungrig.
+Möchtest du einen Apfel oder eine Banane?
+Wir können ins Kino gehen oder zu Hause einen Film schauen.
+Kommst du mit dem Velo oder nimmst du den Bus?
+Sollen wir jetzt lernen oder machen wir zuerst eine Pause?
+Du kannst den blauen oder den grünen Stift nehmen.
+Bevor wir essen, waschen wir uns die Hände.
+Ehe wir essen, waschen wir uns die Hände.
+Ich räume mein Zimmer auf, bevor die Gäste kommen.
+Ich räume mein Zimmer auf, ehe die Gäste kommen.
+Bevor die Ferien beginnen, schreiben wir noch eine Prüfung.
+Ehe die Ferien beginnen, schreiben wir noch eine Prüfung.
+Wir zogen die Wanderschuhe an, bevor wir losgingen.
+Wir zogen die Wanderschuhe an, ehe wir losgingen.
+Bevor du eine Antwort gibst, solltest du gut nachdenken.
+Ehe du eine Antwort gibst, solltest du gut nachdenken.
+Nachdem wir gegessen hatten, spülten wir das Geschirr.
+Nachdem die Prüfung vorbei war, gingen alle erleichtert nach Hause.
+Wir machten eine Pause, nachdem wir den Gipfel erreicht hatten.
+Nachdem er die Hausaufgaben gemacht hatte, durfte er spielen.
+Sie fühlte sich besser, nachdem sie etwas geschlafen hatte.
+Während ich koche, deckst du bitte den Tisch.
+Er hörte Musik, während er seine Hausaufgaben machte.
+Während die einen Fussball spielten, lasen die anderen ein Buch.
+Es begann zu regnen, während wir am Seeufer sassen.
+Während sie sprach, wurde es im Klassenzimmer ganz still.
+Wir warteten am Bahnhof, bis der Zug endlich kam.
+Ich bleibe wach, bis meine Eltern nach Hause kommen.
+Wir übten den Sprung so lange, bis er endlich gelang.
+Bleib bitte hier, bis ich zurück bin.
+Wir wanderten weiter, bis wir die Hütte erreichten.
+Sobald der Wecker klingelt, stehe ich auf.
+Ich rufe dich an, sobald ich zu Hause bin.
+Sobald es aufhörte zu regnen, gingen wir nach draussen.
+Wir beginnen mit dem Spiel, sobald alle da sind.
+Sobald die Prüfung korrigiert ist, erfahrt ihr die Noten.
+Solange die Sonne scheint, bleiben wir am Strand.
+Du darfst fernsehen, solange deine Hausaufgaben fertig sind.
+Solange es schneit, bleiben die Strassen gefährlich.
+Ich helfe dir, solange ich Zeit habe.
+Solange wir zusammenhalten, schaffen wir die Aufgabe.
+Falls es morgen regnet, bleiben wir zu Hause.
+Wenn es morgen regnet, bleiben wir zu Hause.
+Nimm einen Schirm mit, falls es später regnet.
+Nimm einen Schirm mit, wenn es später regnet.
+Nimm einen Schirm mit, sofern es später regnet.
+Falls du Fragen hast, kannst du mich jederzeit fragen.
+Wenn du Fragen hast, kannst du mich jederzeit fragen.
+Wir treffen uns beim Eingang, falls wir uns verlieren.
+Wir treffen uns beim Eingang, wenn wir uns verlieren.
+Falls die Prüfung schwierig wird, bleib bitte trotzdem ruhig.
+Wenn die Prüfung schwierig wird, bleib bitte trotzdem ruhig.
+Ich erkläre es langsam, damit alle es verstehen.
+Sie übt jeden Tag, damit sie die Prüfung besteht.
+Wir gingen früh los, damit wir den Bus nicht verpassten.
+Zieh dir eine Jacke an, damit du nicht frierst.
+Der Lehrer wiederholte die Regel, damit sie niemand vergass.
+Da es schon dunkel war, machten wir das Licht an.
+Weil es schon dunkel war, machten wir das Licht an.
+Da wir wenig Zeit hatten, nahmen wir den direkten Weg.
+Weil wir wenig Zeit hatten, nahmen wir den direkten Weg.
+Wir blieben zu Hause, da das Wetter schlecht war.
+Wir blieben zu Hause, weil das Wetter schlecht war.
+Da alle müde waren, machten wir eine Pause.
+Weil alle müde waren, machten wir eine Pause.
+Da sie gut vorbereitet war, hatte sie keine Angst vor der Prüfung.
+Weil sie gut vorbereitet war, hatte sie keine Angst vor der Prüfung.
+Ich weiss nicht, ob er heute kommt.
+Sie fragte, ob wir Lust auf ein Spiel hätten.
+Wir sind nicht sicher, ob der Zug pünktlich ist.
+Er überlegte, ob er die schwierige Aufgabe zuerst lösen sollte.
+Kannst du nachschauen, ob noch Milch im Kühlschrank ist?
+Seitdem er ein Handy hat, ruft er seine Grossmutter oft an.
+Seit er ein Handy hat, ruft er seine Grossmutter oft an.
+Seitdem sie im Verein ist, trainiert sie dreimal pro Woche.
+Seit sie im Verein ist, trainiert sie dreimal pro Woche.
+Er schreibt bessere Aufsätze, seitdem er viel liest.
+Er schreibt bessere Aufsätze, seit er viel liest.
+Seitdem wir umgezogen sind, habe ich einen kürzeren Schulweg.
+Seit wir umgezogen sind, habe ich einen kürzeren Schulweg.
+Seitdem der neue Spielplatz offen ist, spielen dort viele Kinder.
+Seit der neue Spielplatz offen ist, spielen dort viele Kinder.
+Er lernte den ganzen Tag, ausserdem half er noch im Haushalt.
+Er lernte den ganzen Tag, zudem half er noch im Haushalt.
+Das Hotel war günstig, ausserdem lag es sehr zentral.
+Das Hotel war günstig, zudem lag es sehr zentral.
+Sie spielt Klavier, ausserdem singt sie im Schulchor.
+Sie spielt Klavier, zudem singt sie im Schulchor.
+Der Ausflug war lehrreich, ausserdem hat er grossen Spass gemacht.
+Der Ausflug war lehrreich, zudem hat er grossen Spass gemacht.
+Es war kalt, ausserdem blies ein starker Wind.
+Es war kalt, zudem blies ein starker Wind.
+Der Plan klingt gut, allerdings ist er ziemlich teuer.
+Der Plan klingt gut, jedoch ist er ziemlich teuer.
+Sie ist sehr begabt, allerdings übt sie zu wenig.
+Sie ist sehr begabt, jedoch übt sie zu wenig.
+Die Wanderung war schön, allerdings war sie ziemlich anstrengend.
+Die Wanderung war schön, jedoch war sie ziemlich anstrengend.
+Das Spiel hat Spass gemacht, allerdings haben wir knapp verloren.
+Das Spiel hat Spass gemacht, jedoch haben wir knapp verloren.
+Der Kuchen sieht lecker aus, allerdings ist er sehr süss.
+Der Kuchen sieht lecker aus, jedoch ist er sehr süss.
+Wir machten zuerst die Hausaufgaben. Danach durften wir spielen.
+Wir machten zuerst die Hausaufgaben. Dann durften wir spielen.
+Zuerst frühstückten wir, danach packten wir die Rucksäcke.
+Zuerst frühstückten wir, dann packten wir die Rucksäcke.
+Sie las das Kapitel. Danach beantwortete sie die Fragen.
+Sie las das Kapitel. Dann beantwortete sie die Fragen.
+Wir besuchten das Museum, danach gingen wir ein Eis essen.
+Wir besuchten das Museum, dann gingen wir ein Eis essen.
+Wir besuchten das Museum, später gingen wir ein Eis essen.
+Er wärmte sich auf. Danach begann das eigentliche Training.
+Er wärmte sich auf. Dann begann das eigentliche Training.
+Zuerst rührst du den Teig, dann gibst du ihn in den Ofen.
+Zuerst rührst du den Teig, danach gibst du ihn in den Ofen.
+Wir packten alles ein, dann fuhren wir los.
+Wir packten alles ein, danach fuhren wir los.
+Lies zuerst die Aufgabe, dann beginne mit der Lösung.
+Lies zuerst die Aufgabe, danach beginne mit der Lösung.
+Wir schauten uns um, dann entschieden wir uns für den Weg.
+Wir schauten uns um, danach entschieden wir uns für den Weg.
+Erst putzt du die Zähne, dann gehst du ins Bett.
+Erst putzt du die Zähne, danach gehst du ins Bett.
+Wir diskutierten lange. Schliesslich einigten wir uns auf einen Plan.
+Sie suchte überall, schliesslich fand sie den Schlüssel im Garten.
+Nach vielen anstrengenden Stunden und tausend Höhenmetern erreichten wir schliesslich den lang ersehnten Gipfel.
+Er überlegte hin und her, schliesslich traf er eine Entscheidung.
+Das Team kämpfte hart, schliesslich gewann es das Turnier.
+Wir sassen ruhig am See. Plötzlich sprang ein Fisch aus dem Wasser.
+Alles war still, plötzlich klingelte laut das Telefon.
+Wir gingen den Weg entlang, plötzlich stand ein Reh vor uns.
+Das Spiel war ausgeglichen. Plötzlich fiel das entscheidende Tor.
+Sie las gemütlich, plötzlich ging das Licht aus.
+Zuerst wärmen wir uns auf, dann beginnen wir mit dem Training.
+Erst wärmen wir uns auf, dann beginnen wir mit dem Training.
+Zunächst wärmen wir uns auf, dann beginnen wir mit dem Training.
+Zuerst liest du die Anleitung, danach baust du das Modell.
+Erst liest du die Anleitung, danach baust du das Modell.
+Zunächst liest du die Anleitung, danach baust du das Modell.
+Zuerst begrüsste uns die Lehrerin, dann begann der Unterricht.
+Zunächst begrüsste uns die Lehrerin, dann begann der Unterricht.
+Zuerst packten wir die Zelte ein, danach räumten wir den Platz auf.
+Erst packten wir die Zelte ein, danach räumten wir den Platz auf.
+Zunächst packten wir die Zelte ein, danach räumten wir den Platz auf.
+Zuerst wäschst du dir die Hände, dann setzt du dich an den Tisch.
+Erst wäschst du dir die Hände, dann setzt du dich an den Tisch.
+Zunächst wäschst du dir die Hände, dann setzt du dich an den Tisch.
+Wir machten die Hausaufgaben und gingen später auf den Spielplatz.
+Wir machten die Hausaufgaben und gingen danach auf den Spielplatz.
+Wir machten die Hausaufgaben und gingen dann auf den Spielplatz.
+Zuerst waren wir müde, später wurden wir wieder munter.
+Zuerst waren wir müde, dann wurden wir wieder munter.
+Wir besichtigten die Altstadt und assen später in einem Restaurant.
+Wir besichtigten die Altstadt und assen danach in einem Restaurant.
+Wir besichtigten die Altstadt und assen dann in einem Restaurant.
+Er übte zuerst allein, später spielte er im Orchester mit.
+Er übte zuerst allein, danach spielte er im Orchester mit.
+Er übte zuerst allein, dann spielte er im Orchester mit.
+Wir starteten früh und erreichten später die Berghütte.
+Wir starteten früh und erreichten danach die Berghütte.
+Wir starteten früh und erreichten dann die Berghütte.
+Beeil dich, sonst verpassen wir den Bus.
+Du musst mehr üben, sonst bestehst du die Prüfung nicht.
+Zieh eine Jacke an, sonst wirst du krank.
+Wir müssen jetzt gehen, sonst wird es zu spät.
+Nimm genug Wasser mit, sonst bekommst du unterwegs Durst.
+Ich deckte den Tisch, inzwischen kochte meine Mutter das Essen.
+Ich deckte den Tisch, unterdessen kochte meine Mutter das Essen.
+Die Gäste kamen später, inzwischen bereiteten wir alles vor.
+Die Gäste kamen später, unterdessen bereiteten wir alles vor.
+Er trainierte hart, inzwischen wurde er deutlich schneller.
+Er trainierte hart, mittlerweile wurde er deutlich schneller.
+Wir warteten auf den Zug, inzwischen assen wir ein Sandwich.
+Wir warteten auf den Zug, unterdessen assen wir ein Sandwich.
+Sie las ein Buch, inzwischen wurde es draussen dunkel.
+Sie las ein Buch, mittlerweile wurde es draussen dunkel.
+Entweder du kommst jetzt mit, oder du bleibst allein zu Hause.
+Entweder wir nehmen den Zug, oder wir fahren mit dem Auto.
+Entweder wir gewinnen heute, oder wir üben noch härter.
+Entweder du entscheidest dich jetzt, oder ich wähle für dich.
+Entweder wir lösen die Aufgabe gemeinsam, oder jeder rechnet allein.
+Sie ist sehr musikalisch und spielt sowohl Klavier als auch Geige.
+An diesem vollen Ausflugstag besuchten wir sowohl das Museum als auch den Zoo.
+Er ist ein echtes Vorbild und sowohl im Sport als auch in der Schule sehr gut.
+Für einen guten Kuchen braucht man unbedingt sowohl Mehl als auch Zucker.
+Die lange Bergtour war eindrücklich: Sie war sowohl anstrengend als auch wunderschön.
+Sie ist nicht nur klug, sondern auch sehr fleissig.
+Wir haben nicht nur gelernt, sondern auch viel gelacht.
+Der Ausflug war nicht nur lehrreich, sondern auch lustig.
+Er hilft nicht nur zu Hause, sondern auch im Verein.
+Das Buch ist nicht nur spannend, sondern auch lehrreich.
+Die Aufgabe war zwar schwierig, aber sehr interessant.
+Der Weg war zwar lang, aber landschaftlich schön.
+Das Zimmer ist zwar klein, aber sehr gemütlich.
+Er ist zwar noch jung, aber schon sehr verantwortungsvoll.
+Das Spiel war zwar knapp, aber am Ende haben wir es verdient gewonnen.

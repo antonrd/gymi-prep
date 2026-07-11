@@ -5,3 +5,4 @@ images/*.jpeg
 
 # Original prompt notes
 initial_prompt.txt
+*.pdf

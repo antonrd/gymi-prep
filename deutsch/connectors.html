@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Gymi-Prep · Bindewörter</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%97%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <style>
+      /* Connector-specific bits on top of the shared theme. */
+      .sentence {
+        font-size: clamp(1.15rem, 3.5vw, 1.5rem);
+        line-height: 2;
+        font-weight: 600;
+        margin: 6px 0 4px;
+      }
+      /* Scope to input[type=text].blankInput so these beat the shared theme's
+         `input[type=text]{width:100%}` rule (higher specificity than a bare class). */
+      input[type="text"].blankInput {
+        font: inherit;
+        font-size: 1em;
+        padding: 2px 8px;
+        border: 0;
+        border-bottom: 3px solid var(--line);
+        border-radius: 6px 6px 0 0;
+        background: #fff6da;
+        margin: 0 3px;
+        vertical-align: baseline;
+        color: var(--ink);
+        /* Width is driven by the `size` attribute (set in JS from content), so blanks
+           hug their word instead of filling the line. `width:auto` lets `size` win;
+           `field-sizing` tightens it further where supported. */
+        width: auto;
+        min-width: 5ch;
+        field-sizing: content;
+      }
+      input[type="text"].blankInput:focus {
+        outline: 3px solid var(--teal);
+        outline-offset: 1px;
+      }
+      input[type="text"].blankInput.locked {
+        opacity: 1;
+        -webkit-text-fill-color: var(--ink);
+        font-weight: 800;
+      }
+      input[type="text"].blankInput.locked.ok {
+        background: #eafaf0;
+        border-color: var(--green-dark);
+      }
+      input[type="text"].blankInput.locked.bad {
+        background: #fdeeec;
+        border-color: var(--coral-dark);
+      }
+      .full-sentence {
+        margin-top: 10px;
+        font-weight: 700;
+        color: var(--ink-soft);
+      }
+      .solution-line {
+        margin-top: 6px;
+        font-weight: 600;
+      }
+      .solution-line .word {
+        background: var(--paper-2);
+        border: 2px solid var(--line);
+        border-radius: 6px;
+        padding: 1px 8px;
+        margin: 0 3px;
+        display: inline-block;
+        font-weight: 800;
+      }
+      .meta-pills {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 12px;
+      }
+      /* Plain-text label (Kategorie / Schwierigkeit) followed by the value as a
+         colour-coded pill, so it reads "Kategorie: [Zeit]". */
+      .pill {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 6px;
+        line-height: 1.2;
+      }
+      .pill-label {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: var(--ink-soft);
+      }
+      .pill-value {
+        font-size: 0.9rem;
+        font-weight: 800;
+        color: #fff;
+        padding: 2px 10px;
+        border-radius: 999px;
+        border: 2px solid var(--line);
+        box-shadow: 0 2px 0 rgba(58, 47, 42, 0.14);
+        white-space: nowrap;
+      }
+      .pill--category .pill-value {
+        background: var(--teal);
+      }
+      .pill--difficulty .pill-value {
+        background: var(--purple);
+      }
+      .pill--context .pill-value {
+        background: var(--amber-dark);
+      }
+      .note-big {
+        font-size: 2.4rem;
+        font-weight: 800;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <header class="app-header">
+        <h1 class="app-title">Gymi&#8209;Prep <span class="accent">· Bindewörter</span></h1>
+        <a class="btn btn-ghost" href="../index.html" title="Zur Startseite">🏠 Startseite</a>
+      </header>
+
+      <!-- ================= SETUP ================= -->
+      <section id="screen-setup" class="screen active">
+        <div class="card wobble">
+          <h2 class="panel-title">Neue Übung einstellen</h2>
+          <p class="panel-hint">
+            Setze das passende Bindewort in die Lücke. Manche Sätze haben mehrere richtige Lösungen —
+            alle werden akzeptiert.
+          </p>
+
+          <fieldset class="field" style="margin-top:6px;">
+            <legend class="field-legend">Kategorien</legend>
+            <div class="chips" id="chips-categories"></div>
+          </fieldset>
+
+          <fieldset class="field" style="margin-top:18px;">
+            <legend class="field-legend">Schwierigkeit</legend>
+            <div class="chips" id="chips-difficulty"></div>
+          </fieldset>
+
+          <div class="field-grid" style="margin-top:18px;">
+            <div class="field">
+              <label for="in-count">Anzahl Aufgaben</label>
+              <input type="number" id="in-count" min="1" max="60" value="15" />
+            </div>
+          </div>
+
+          <div class="btn-row">
+            <button class="btn btn-primary btn-lg" id="btn-start">Start ▶</button>
+          </div>
+          <p class="panel-hint" id="pool-info" style="margin-top:10px;"></p>
+          <p class="feedback bad" id="setup-error"></p>
+        </div>
+      </section>
+
+      <!-- ================= SOLVING ================= -->
+      <section id="screen-solve" class="screen">
+        <div class="solve-topbar">
+          <span class="progress-pill" id="progress-pill">Aufgabe 1 / 15</span>
+          <button class="btn btn-ghost btn-cancel" id="btn-cancel">✕ Abbrechen</button>
+        </div>
+        <div class="cancel-confirm" id="cancel-confirm">
+          <span>Übung wirklich abbrechen? Der Fortschritt geht verloren.</span>
+          <span class="cancel-confirm-actions">
+            <button class="btn btn-coral" id="btn-cancel-yes">Ja, abbrechen</button>
+            <button class="btn btn-ghost" id="btn-cancel-no">Weiter üben</button>
+          </span>
+        </div>
+
+        <div class="card wobble">
+          <div class="meta-pills" id="solve-meta"></div>
+          <div class="sentence" id="sentence"></div>
+          <div class="solve-submit" style="margin-top:14px;">
+            <button class="btn btn-primary btn-lg" id="btn-check">Prüfen</button>
+            <button class="btn btn-primary btn-lg" id="btn-next" style="display:none;">Weiter ↵</button>
+          </div>
+          <p class="feedback" id="feedback"></p>
+          <div id="solution-block"></div>
+        </div>
+      </section>
+
+      <!-- ================= REPORT ================= -->
+      <section id="screen-report" class="screen">
+        <div class="report-summary" id="report-summary"></div>
+        <div class="card wobble">
+          <h2 class="panel-title">Deine Ergebnisse</h2>
+          <p class="panel-hint">Tippe auf eine rote Aufgabe, um sie noch einmal zu versuchen.</p>
+          <div class="report-grid" id="report-grid"></div>
+          <div class="btn-row">
+            <button class="btn btn-primary" id="btn-new">Neue Übung</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= RETRY ================= -->
+      <section id="screen-retry" class="screen">
+        <div class="card wobble">
+          <div class="meta-pills" id="retry-meta"></div>
+          <div class="sentence" id="retry-sentence"></div>
+          <div class="solve-submit" style="margin-top:14px;">
+            <button class="btn btn-primary btn-lg" id="btn-retry-check">Prüfen</button>
+          </div>
+          <p class="feedback" id="retry-feedback"></p>
+          <div id="retry-solution-block"></div>
+          <div class="btn-row" style="justify-content:center;">
+            <button class="btn btn-ghost" id="btn-retry-back">← Zurück zur Übersicht</button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script type="module" src="connectors_app.js"></script>
+  </body>
+</html>

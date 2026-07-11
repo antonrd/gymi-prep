@@ -1,0 +1,220 @@
+Connector ID,Full sentence,Gap sentence,Correct answer,Accepted alternatives,Alternative notes,Context,Difficulty,Tested skill
+S04,"Wenn ich am Abend Zeit habe, lese ich ein Buch.","______ ich am Abend Zeit habe, lese ich ein Buch.",Wenn,Falls,Capitalized at start,Hobbies,Medium,Sentence-initial subordinator
+S04,"Wir gehen morgen in den Zoo, wenn das Wetter schön bleibt.","Wir gehen morgen in den Zoo, ______ das Wetter schön bleibt.",wenn,falls / sofern,,Nature,Easy,Conditional link
+S04,"Immer wenn Lukas seine Grossmutter besucht, bekommt er Kuchen.","Immer ______ Lukas seine Grossmutter besucht, bekommt er Kuchen.",wenn,,Repeated action marker,Family,Medium,Temporal subordinator
+S04,"Du darfst das Tablet benutzen, wenn du deine Hausaufgaben fertig hast.","Du darfst das Tablet benutzen, ______ du deine Hausaufgaben fertig hast.",wenn,falls,,School & Home,Easy,Condition rule
+S04,"Wenn du die Gymi-Prüfung schaffen willst, musst du regelmässig üben.","______ du die Gymi-Prüfung schaffen willst, musst du regelmässig üben.",Wenn,,Capitalized,School,Challenging,Complex conditional phrase
+S05,"Als ich sechs Jahre alt war, lernte ich Velo fahren.","______ ich sechs Jahre alt war, lernte ich Velo fahren.",Als,,Single past event,Hobbies,Medium,Past time subordinator
+S05,"Wir spielten gerade im Garten, als das grosse Gewitter losging.","Wir spielten gerade im Garten, ______ das grosse Gewitter losging.",als,,Interruption marker,Nature,Medium,Past time event
+S05,"Als die Schule aus war, rannten alle Kinder erleichtert nach Hause.","______ die Schule aus war, rannten alle Kinder erleichtert nach Hause.",Als,,Capitalized,School,Medium,Chronological past anchor
+S05,"Sie freute sich sehr, als sie die Zusage für das Gymnasium im Briefkasten fand.","Sie freute sich sehr, ______ sie die Zusage für das Gymnasium im Briefkasten fand.",als,,,School,Challenging,Complex emotional past marker
+S05,"Als wir letzten Sommer in den Ferien in Graubünden waren, sahen wir einen Steinbock.","______ wir letzten Sommer in den Ferien in Graubünden waren, sahen wir einen Steinbock.",Als,,Swiss context,Travel & Nature,Challenging,Long sentence syntax
+P01,Entweder gehen wir heute ins Freibad oder wir bleiben zu Hause.,______ gehen wir heute ins Freibad ______ wir bleiben zu Hause.,Entweder ... oder,,Requires two blanks,Hobbies,Medium,Paired choice clause
+P01,Du kannst entweder das rote T-Shirt wählen oder du nimmst das blaue.,Du kannst ______ das rote T-Shirt wählen ______ du nimmst das blaue.,entweder ... oder,,,Everyday,Easy,Paired element linking
+P01,Entweder lernen wir jetzt für Geometrie oder wir üben den Aufsatz.,______ lernen wir jetzt für Geometrie ______ wir üben den Aufsatz.,Entweder ... oder,,Capitalized first word,School,Challenging,Alternative pair structuring
+P01,"Zum Frühstück trinke ich immer eines von beiden: entweder Milch oder Orangensaft.","Zum Frühstück trinke ich immer eines von beiden: ______ Milch ______ Orangensaft.",entweder ... oder,,'immer eines von beiden' forces the exclusive choice; rules out neither-nor,Everyday,Easy,Simple option framing
+P01,Entweder fahren wir mit dem Tram oder wir gehen das kurze Stück zu Fuss.,______ fahren wir mit dem Tram ______ wir gehen das kurze Stück zu Fuss.,Entweder ... oder,,Zürich transport context,Travel,Medium,Paired action setup
+P02,Ich habe weder meine Schulsachen eingepackt noch habe ich mein Heft dabei.,Ich habe ______ meine Schulsachen eingepackt ______ habe ich mein Heft dabei.,weder ... noch,,Note inversion after noch,School,Challenging,Double negative inversion
+P02,Das Kind wollte weder Gemüse essen noch wollte es die Suppe probieren.,Das Kind wollte ______ Gemüse essen ______ wollte es die Suppe probieren.,weder ... noch,,Inversion trigger,Family,Medium,Negative addition pair
+P02,Am Wochenende hatten wir weder Glück mit dem Wetter noch konnten wir wandern gehen.,Am Wochenende hatten wir ______ Glück mit dem Wetter ______ konnten wir wandern gehen.,weder ... noch,,Swiss outdoor context,Nature & Travel,Challenging,Complex double negation
+P02,Lukas kann weder Französisch sprechen noch versteht er die englischen Vokabeln.,Lukas kann ______ Französisch sprechen ______ versteht er die englischen Vokabeln.,weder ... noch,,,School,Medium,Negative skill pairing
+P02,"Weder mein Bruder noch meine Schwester hat den Schlüssel dabei, deshalb kommen wir nicht ins Haus.","______ mein Bruder ______ meine Schwester hat den Schlüssel dabei, deshalb kommen wir nicht ins Haus.",Weder ... noch,,Negative consequence ('kommen nicht ins Haus') rules out both-and,Family,Challenging,Sentence starter negative pair
+A01,Es regnete stark. Deshalb blieben wir den ganzen Nachmittag im Haus.,Es regnete stark. ______ blieben wir den ganzen Nachmittag im Haus.,Deshalb,Deswegen / Darum / Daher,Capitalized after full stop. Inversion follows.,Nature,Medium,Conjunctive adverb inversion
+A01,"Sie hat sehr fleissig geübt, deshalb hat sie die Gymi-Prüfung bestanden.","Sie hat sehr fleissig geübt, ______ hat sie die Gymi-Prüfung bestanden.",deshalb,deswegen / darum / daher,Inversion post-comma,School,Challenging,Main clause causal tracking
+A01,"Der Bus hatte eine Panne, deshalb kam ich zu spät zum Training.","Der Bus hatte eine Panne, ______ kam ich zu spät zum Training.",deshalb,deswegen / darum / daher,,Travel & Hobbies,Easy,Adverbial cause insertion
+A01,"Ich hatte meinen Ausweis vergessen, deshalb durfte ich nicht ins Stadion.","Ich hatte meinen Ausweis vergessen, ______ durfte ich nicht ins Stadion.",deshalb,deswegen / darum / daher,,Hobbies,Medium,Consequence mapping
+A01,"Kati liebt Tiere über alles, deshalb möchte sie später Tierärztin werden.","Kati liebt Tiere über alles, ______ möchte sie später Tierärztin werden.",deshalb,deswegen / darum / daher,,Everyday,Easy,Career aspiration logic
+A05,Die Matheaufgabe war unglaublich kompliziert. Trotzdem fand Ben die richtige Lösung.,Die Matheaufgabe war unglaublich kompliziert. ______ fand Ben die richtige Lösung.,Trotzdem,Dennoch,Capitalized; verb immediately follows,School,Challenging,Concessive adverb placement
+A05,"Es war sehr kalt draussen, trotzdem spielten die Kinder vergnügt auf dem Schulhof.","Es war sehr kalt draussen, ______ spielten die Kinder vergnügt auf dem Schulhof.",trotzdem,dennoch,Post-comma inversion,School & Nature,Medium,Contrast adverb mapping
+A05,"Ich hatte eigentlich keine Zeit, trotzdem habe ich meiner Mutter im Garten geholfen.","Ich hatte eigentlich keine Zeit, ______ habe ich meiner Mutter im Garten geholfen.",trotzdem,dennoch,,Family,Medium,Concessive balancing
+A05,"Der Wecker hat morgens nicht geklingelt, trotzdem ist er pünktlich aufgewacht.","Der Wecker hat morgens nicht geklingelt, ______ ist er pünktlich aufgewacht.",trotzdem,dennoch,,Everyday,Easy,Inverted contrast
+A05,"Wir haben das Spiel knapp verloren, trotzdem hatten wir grossen Spass beim Turnier.","Wir haben das Spiel knapp verloren, ______ hatten wir grossen Spass beim Turnier.",trotzdem,dennoch,Swiss sports context,Hobbies,Medium,Narrative text connector
+S01,"Ich blieb zu Hause, weil ich krank war.","Ich blieb zu Hause, ______ ich krank war.",weil,da,"Both subordinating (verb-last); 'da' fits when reason is given",Everyday,Easy,Reason subordinator verb-last
+S01,"Wir mussten drinnen bleiben, weil es den ganzen Tag regnete.","Wir mussten drinnen bleiben, ______ es den ganzen Tag regnete.",weil,da,Verb at end,Nature,Medium,Causal clause
+S01,"Sie übt jeden Tag, weil sie die Gymi-Prüfung bestehen will.","Sie übt jeden Tag, ______ sie die Gymi-Prüfung bestehen will.",weil,da,ZAP context; verb-last,School,Medium,Purpose-reason link
+S01,"Der Lehrer war zufrieden, weil alle Kinder die Aufgaben gelöst hatten.","Der Lehrer war zufrieden, ______ alle Kinder die Aufgaben gelöst hatten.",weil,da,,School,Challenging,Complex causal clause
+S01,"Lukas kam zu spät, weil sein Bus eine Panne hatte.","Lukas kam zu spät, ______ sein Bus eine Panne hatte.",weil,da,,Travel,Easy,Everyday reason
+S02,"Obwohl es stark regnete, gingen wir spazieren.","______ es stark regnete, gingen wir spazieren.",Obwohl,Obschon / Obgleich,Capitalized; all verb-last concessive,Nature,Medium,Concessive subordinator
+S02,"Er bestand die Prüfung, obwohl er kaum gelernt hatte.","Er bestand die Prüfung, ______ er kaum gelernt hatte.",obwohl,obschon / obgleich,Verb at end,School,Challenging,Concessive contrast
+S02,"Obwohl sie müde war, half sie ihrer Mutter im Garten.","______ sie müde war, half sie ihrer Mutter im Garten.",Obwohl,Obschon / Obgleich,Capitalized,Family,Medium,Sentence-initial concessive
+S02,"Wir gewannen das Spiel, obwohl die andere Mannschaft stärker war.","Wir gewannen das Spiel, ______ die andere Mannschaft stärker war.",obwohl,obschon / obgleich,Swiss sports context,Hobbies,Medium,Concessive result
+S02,"Obwohl der Weg gefährlich aussah, wagten sie den Aufstieg.","______ der Weg gefährlich aussah, wagten sie den Aufstieg.",Obwohl,Obschon / Obgleich,,Nature & Travel,Challenging,Long concessive syntax
+S03,"Ich hoffe, dass du bald gesund wirst.","Ich hoffe, ______ du bald gesund wirst.",dass,,Verb-last; do not confuse with relative 'das',Family,Easy,dass vs das
+S03,"Der Lehrer sagte, dass die Prüfung nächste Woche stattfindet.","Der Lehrer sagte, ______ die Prüfung nächste Woche stattfindet.",dass,,Verb at end,School,Medium,Complement clause
+S03,"Es ist wichtig, dass wir pünktlich sind.","Es ist wichtig, ______ wir pünktlich sind.",dass,,,Everyday,Easy,Necessity complement
+S03,"Ich glaube, dass wir das Ziel gemeinsam erreichen können.","Ich glaube, ______ wir das Ziel gemeinsam erreichen können.",dass,,,School,Medium,Belief complement
+S03,"Sie freute sich, dass ihre Freundin auch ins Gymnasium kommt.","Sie freute sich, ______ ihre Freundin auch ins Gymnasium kommt.",dass,,,School,Challenging,Emotional complement
+C02,"Ich wollte ins Freibad, aber es regnete den ganzen Tag.","Ich wollte ins Freibad, ______ es regnete den ganzen Tag.",aber,doch,Coordinating; main-clause word order follows (no inversion),Nature,Easy,Contrast coordinator
+C02,"Der Film war lang, aber er war sehr spannend.","Der Film war lang, ______ er war sehr spannend.",aber,doch,,Everyday,Easy,Simple contrast
+C02,"Sie lernte fleissig, aber die Prüfung blieb trotzdem schwierig.","Sie lernte fleissig, ______ die Prüfung blieb trotzdem schwierig.",aber,doch,,School,Medium,Contrast with limit
+C02,"Wir hatten wenig Zeit, aber wir schafften die Wanderung.","Wir hatten wenig Zeit, ______ wir schafften die Wanderung.",aber,doch,Swiss outdoor context,Travel & Nature,Medium,Coordinated contrast
+C02,"Das Zimmer war klein, aber sehr gemütlich.","Das Zimmer war klein, ______ sehr gemütlich.",aber,doch / jedoch,Elliptical: no verb in second part; jedoch also fits here,Everyday,Easy,Elliptical contrast
+C03,"Wir gingen früh ins Bett, denn wir waren sehr müde.","Wir gingen früh ins Bett, ______ wir waren sehr müde.",denn,,Coordinating reason; main-clause word order (Subject+Verb),Everyday,Medium,Reason coordinator
+C03,"Er nahm den Regenschirm mit, denn es sah nach Regen aus.","Er nahm den Regenschirm mit, ______ es sah nach Regen aus.",denn,,Subject follows immediately,Nature,Medium,Coordinated reason
+C03,"Ich muss jetzt lernen, denn morgen schreibe ich die Prüfung.","Ich muss jetzt lernen, ______ morgen schreibe ich die Prüfung.",denn,,,School,Medium,Reason before event
+C03,"Sie freute sich sehr, denn sie hatte die Aufnahmeprüfung bestanden.","Sie freute sich sehr, ______ sie hatte die Aufnahmeprüfung bestanden.",denn,,,School,Challenging,Emotional reason
+C03,"Wir mussten umkehren, denn der Wanderweg war gesperrt.","Wir mussten umkehren, ______ der Wanderweg war gesperrt.",denn,,Swiss context,Travel & Nature,Medium,Reason coordinator
+A18,"Ich wollte ins Freibad, jedoch regnete es den ganzen Tag.","Ich wollte ins Freibad, ______ regnete es den ganzen Tag.",jedoch,,Conjunctive adverb: inversion (verb before subject),Nature,Medium,Contrast adverb inversion
+A18,"Der Film war lang, jedoch war er sehr spannend.","Der Film war lang, ______ war er sehr spannend.",jedoch,,Inversion after connector,Everyday,Easy,Contrast adverb inversion
+A18,"Sie lernte fleissig, jedoch blieb die Prüfung trotzdem schwierig.","Sie lernte fleissig, ______ blieb die Prüfung trotzdem schwierig.",jedoch,,Inversion,School,Medium,Contrast adverb with limit
+A18,"Wir hatten wenig Zeit, jedoch schafften wir die Wanderung.","Wir hatten wenig Zeit, ______ schafften wir die Wanderung.",jedoch,,Swiss outdoor context; inversion,Travel & Nature,Medium,Coordinated contrast inversion
+A02,"Er hatte die ganze Nacht gehustet, deswegen blieb er heute im Bett.","Er hatte die ganze Nacht gehustet, ______ blieb er heute im Bett.",deswegen,deshalb / darum / daher,Causal Position-1 adverb; inversion follows,Family,Medium,Causal adverb inversion
+A02,"Der Zug fiel aus, deswegen mussten wir mit dem Bus fahren.","Der Zug fiel aus, ______ mussten wir mit dem Bus fahren.",deswegen,deshalb / darum / daher,Inversion after comma,Travel,Easy,Consequence mapping
+A02,"Sie hatte alles gut vorbereitet, deswegen war die Präsentation ein Erfolg.","Sie hatte alles gut vorbereitet, ______ war die Präsentation ein Erfolg.",deswegen,deshalb / darum / daher,,School,Medium,Result adverb
+A02,"Es hatte tagelang geschneit, deswegen war die Passstrasse gesperrt.","Es hatte tagelang geschneit, ______ war die Passstrasse gesperrt.",deswegen,deshalb / darum / daher,Swiss context,Nature & Travel,Challenging,Causal chain
+A02,"Ich habe meinen Schlüssel verloren, deswegen konnte ich nicht ins Haus.","Ich habe meinen Schlüssel verloren, ______ konnte ich nicht ins Haus.",deswegen,deshalb / darum / daher,,Everyday,Easy,Simple consequence
+A03,"Es war schon spät, darum gingen wir nach Hause.","Es war schon spät, ______ gingen wir nach Hause.",darum,deshalb / deswegen / daher,Causal Position-1 adverb; inversion,Everyday,Easy,Causal adverb inversion
+A03,"Der Hund bellte laut, darum wachte das Baby auf.","Der Hund bellte laut, ______ wachte das Baby auf.",darum,deshalb / deswegen / daher,Inversion,Family,Easy,Consequence link
+A03,"Sie hatte fleissig trainiert, darum gewann sie den Wettkampf.","Sie hatte fleissig trainiert, ______ gewann sie den Wettkampf.",darum,deshalb / deswegen / daher,,Hobbies,Medium,Result adverb
+A03,"Das Eis auf dem See war zu dünn, darum durften wir nicht darauf.","Das Eis auf dem See war zu dünn, ______ durften wir nicht darauf.",darum,deshalb / deswegen / daher,Swiss winter context,Nature,Medium,Causal reasoning
+A03,"Er hatte die Aufgabe nicht verstanden, darum fragte er den Lehrer.","Er hatte die Aufgabe nicht verstanden, ______ fragte er den Lehrer.",darum,deshalb / deswegen / daher,,School,Medium,Consequence in class
+A04,"Der Weg war vereist, daher gingen wir besonders vorsichtig.","Der Weg war vereist, ______ gingen wir besonders vorsichtig.",daher,deshalb / deswegen / darum,Slightly formal causal adverb; inversion,Nature,Medium,Causal adverb inversion
+A04,"Die Aufgabe war schwierig, daher brauchten wir mehr Zeit.","Die Aufgabe war schwierig, ______ brauchten wir mehr Zeit.",daher,deshalb / deswegen / darum,,School,Medium,Formal consequence
+A04,"Das Wetter wurde schlechter, daher brachen wir die Wanderung ab.","Das Wetter wurde schlechter, ______ brachen wir die Wanderung ab.",daher,deshalb / deswegen / darum,Swiss outdoor context,Travel & Nature,Challenging,Result reasoning
+A04,"Sie hatte viel gelesen, daher kannte sie viele Wörter.","Sie hatte viel gelesen, ______ kannte sie viele Wörter.",daher,deshalb / deswegen / darum,,School,Easy,Cause and effect
+A04,"Der Laden hatte bereits geschlossen, daher gingen wir nach Hause.","Der Laden hatte bereits geschlossen, ______ gingen wir nach Hause.",daher,deshalb / deswegen / darum,,Everyday,Easy,Simple consequence
+A16,"Er hatte nicht geübt, folglich machte er viele Fehler.","Er hatte nicht geübt, ______ machte er viele Fehler.",folglich,deshalb / deswegen / darum / daher,Logical consequence adverb; inversion,School,Challenging,Logical consequence
+A16,"Die Brücke war gesperrt, folglich mussten wir einen Umweg fahren.","Die Brücke war gesperrt, ______ mussten wir einen Umweg fahren.",folglich,deshalb / deswegen / darum / daher,,Travel,Medium,Logical result
+A16,"Sie hatte alle Punkte erreicht, folglich bestand sie die Prüfung mit Bestnote.","Sie hatte alle Punkte erreicht, ______ bestand sie die Prüfung mit Bestnote.",folglich,deshalb / deswegen / darum / daher,,School,Challenging,Formal consequence
+A16,"Der Akku war leer, folglich konnte ich niemanden anrufen.","Der Akku war leer, ______ konnte ich niemanden anrufen.",folglich,deshalb / deswegen / darum / daher,,Everyday,Medium,Logical chain
+A16,"Es hatte stark geregnet, folglich stieg der Fluss stark an.","Es hatte stark geregnet, ______ stieg der Fluss stark an.",folglich,deshalb / deswegen / darum / daher,Swiss nature context,Nature,Challenging,Cause-effect reasoning
+C01,"Ich packte meine Tasche und ging zur Schule.","Ich packte meine Tasche ______ ging zur Schule.",und,,Coordinating; links two actions,Everyday,Easy,Additive coordinator
+C01,"Wir kauften Brot und Käse für das Picknick.","Wir kauften Brot ______ Käse für das Picknick.",und,,Links two nouns,Everyday,Easy,Simple addition
+C01,"Die Sonne schien und die Vögel sangen.","Die Sonne schien ______ die Vögel sangen.",und,,Links two clauses,Nature,Easy,Coordinated clauses
+C01,"Sie lernte für die Prüfung und wiederholte alle Aufgaben.","Sie lernte für die Prüfung ______ wiederholte alle Aufgaben.",und,,,School,Easy,Additive link
+C01,"Wir wanderten auf den Berg und genossen die Aussicht.","Wir wanderten auf den Berg ______ genossen die Aussicht.",und,,Swiss outdoor context,Nature & Travel,Easy,Coordinated actions
+C04,"Ich möchte nicht ins Kino, sondern lieber ins Schwimmbad.","Ich möchte nicht ins Kino, ______ lieber ins Schwimmbad.",sondern,,Only after a negation (nicht/kein),Hobbies,Medium,Correction after negation
+C04,"Das ist kein Hund, sondern ein Wolf.","Das ist kein Hund, ______ ein Wolf.",sondern,,After 'kein',Nature,Easy,Negation correction
+C04,"Er wollte nicht lügen, sondern die Wahrheit sagen.","Er wollte nicht lügen, ______ die Wahrheit sagen.",sondern,,,Everyday,Medium,Contrast after negation
+C04,"Wir fahren nicht am Samstag, sondern am Sonntag.","Wir fahren nicht am Samstag, ______ am Sonntag.",sondern,,,Travel,Easy,Corrective contrast
+C04,"Sie ist nicht müde, sondern nur ein bisschen hungrig.","Sie ist nicht müde, ______ nur ein bisschen hungrig.",sondern,,,Everyday,Medium,Negation-correction pair
+C05,"Möchtest du einen Apfel oder eine Banane?","Möchtest du einen Apfel ______ eine Banane?",oder,,Coordinating; offers a choice,Everyday,Easy,Alternative coordinator
+C05,"Wir können ins Kino gehen oder zu Hause einen Film schauen.","Wir können ins Kino gehen ______ zu Hause einen Film schauen.",oder,,Links two options,Hobbies,Easy,Choice link
+C05,"Kommst du mit dem Velo oder nimmst du den Bus?","Kommst du mit dem Velo ______ nimmst du den Bus?",oder,,,Travel,Easy,Alternative question
+C05,"Sollen wir jetzt lernen oder machen wir zuerst eine Pause?","Sollen wir jetzt lernen ______ machen wir zuerst eine Pause?",oder,,,School,Medium,Choice between actions
+C05,"Du kannst den blauen oder den grünen Stift nehmen.","Du kannst den blauen ______ den grünen Stift nehmen.",oder,,,Everyday,Easy,Simple alternative
+S06,"Bevor wir essen, waschen wir uns die Hände.","______ wir essen, waschen wir uns die Hände.",Bevor,Ehe,Capitalized; verb-last; 'ehe' is the formal synonym,Everyday,Easy,Temporal subordinator
+S06,"Ich räume mein Zimmer auf, bevor die Gäste kommen.","Ich räume mein Zimmer auf, ______ die Gäste kommen.",bevor,ehe,Verb at end,Family,Medium,Sequence marker
+S06,"Bevor die Ferien beginnen, schreiben wir noch eine Prüfung.","______ die Ferien beginnen, schreiben wir noch eine Prüfung.",Bevor,Ehe,Capitalized,School,Medium,Time-before clause
+S06,"Wir zogen die Wanderschuhe an, bevor wir losgingen.","Wir zogen die Wanderschuhe an, ______ wir losgingen.",bevor,ehe,Swiss outdoor context,Nature & Travel,Easy,Preparation sequence
+S06,"Bevor du eine Antwort gibst, solltest du gut nachdenken.","______ du eine Antwort gibst, solltest du gut nachdenken.",Bevor,Ehe,Capitalized,School,Challenging,Advice sequence
+S07,"Nachdem wir gegessen hatten, spülten wir das Geschirr.","______ wir gegessen hatten, spülten wir das Geschirr.",Nachdem,,Capitalized; verb-last; requires Plusquamperfekt,Everyday,Medium,Time-after subordinator
+S07,"Nachdem die Prüfung vorbei war, gingen alle erleichtert nach Hause.","______ die Prüfung vorbei war, gingen alle erleichtert nach Hause.",Nachdem,,Capitalized,School,Medium,Sequence after event
+S07,"Wir machten eine Pause, nachdem wir den Gipfel erreicht hatten.","Wir machten eine Pause, ______ wir den Gipfel erreicht hatten.",nachdem,,Swiss mountain context; verb-last,Nature & Travel,Challenging,Tense-change sequence
+S07,"Nachdem er die Hausaufgaben gemacht hatte, durfte er spielen.","______ er die Hausaufgaben gemacht hatte, durfte er spielen.",Nachdem,,Capitalized,School & Home,Medium,Reward after task
+S07,"Sie fühlte sich besser, nachdem sie etwas geschlafen hatte.","Sie fühlte sich besser, ______ sie etwas geschlafen hatte.",nachdem,,,Family,Medium,Recovery sequence
+S08,"Während ich koche, deckst du bitte den Tisch.","______ ich koche, deckst du bitte den Tisch.",Während,,Capitalized; simultaneous actions; verb-last,Everyday,Medium,Simultaneous time subordinator
+S08,"Er hörte Musik, während er seine Hausaufgaben machte.","Er hörte Musik, ______ er seine Hausaufgaben machte.",während,,Verb at end,School,Medium,Parallel actions
+S08,"Während die einen Fussball spielten, lasen die anderen ein Buch.","______ die einen Fussball spielten, lasen die anderen ein Buch.",Während,,Contrast between two groups,Hobbies,Challenging,Contrast subordinator
+S08,"Es begann zu regnen, während wir am Seeufer sassen.","Es begann zu regnen, ______ wir am Seeufer sassen.",während,,Swiss lake context,Nature,Medium,Simultaneous events
+S08,"Während sie sprach, wurde es im Klassenzimmer ganz still.","______ sie sprach, wurde es im Klassenzimmer ganz still.",Während,,Capitalized,School,Medium,Time overlap
+S09,"Wir warteten am Bahnhof, bis der Zug endlich kam.","Wir warteten am Bahnhof, ______ der Zug endlich kam.",bis,,Marks end point; verb-last,Travel,Easy,Endpoint subordinator
+S09,"Ich bleibe wach, bis meine Eltern nach Hause kommen.","Ich bleibe wach, ______ meine Eltern nach Hause kommen.",bis,,Verb at end,Family,Medium,Duration until event
+S09,"Wir übten den Sprung so lange, bis er endlich gelang.","Wir übten den Sprung so lange, ______ er endlich gelang.",bis,,,Hobbies,Medium,Practice until success
+S09,"Bleib bitte hier, bis ich zurück bin.","Bleib bitte hier, ______ ich zurück bin.",bis,,,Everyday,Easy,Wait until return
+S09,"Wir wanderten weiter, bis wir die Hütte erreichten.","Wir wanderten weiter, ______ wir die Hütte erreichten.",bis,,Swiss hiking context,Nature & Travel,Medium,Endpoint of action
+S11,"Sobald der Wecker klingelt, stehe ich auf.","______ der Wecker klingelt, stehe ich auf.",Sobald,,Capitalized; immediate start; verb-last,Everyday,Medium,Immediate-start subordinator
+S11,"Ich rufe dich an, sobald ich zu Hause bin.","Ich rufe dich an, ______ ich zu Hause bin.",sobald,,Verb at end,Family,Medium,As-soon-as marker
+S11,"Sobald es aufhörte zu regnen, gingen wir nach draussen.","______ es aufhörte zu regnen, gingen wir nach draussen.",Sobald,,Capitalized,Nature,Medium,Immediate reaction
+S11,"Wir beginnen mit dem Spiel, sobald alle da sind.","Wir beginnen mit dem Spiel, ______ alle da sind.",sobald,,,Hobbies,Easy,Start condition
+S11,"Sobald die Prüfung korrigiert ist, erfahrt ihr die Noten.","______ die Prüfung korrigiert ist, erfahrt ihr die Noten.",Sobald,,Capitalized,School,Medium,Trigger point
+S12,"Solange die Sonne scheint, bleiben wir am Strand.","______ die Sonne scheint, bleiben wir am Strand.",Solange,,Capitalized; duration; verb-last,Nature,Medium,Duration subordinator
+S12,"Du darfst fernsehen, solange deine Hausaufgaben fertig sind.","Du darfst fernsehen, ______ deine Hausaufgaben fertig sind.",solange,,Condition-duration; verb at end,School & Home,Medium,As-long-as condition
+S12,"Solange es schneit, bleiben die Strassen gefährlich.","______ es schneit, bleiben die Strassen gefährlich.",Solange,,Swiss winter context,Nature & Travel,Medium,Ongoing condition
+S12,"Ich helfe dir, solange ich Zeit habe.","Ich helfe dir, ______ ich Zeit habe.",solange,,,Everyday,Easy,Duration of help
+S12,"Solange wir zusammenhalten, schaffen wir die Aufgabe.","______ wir zusammenhalten, schaffen wir die Aufgabe.",Solange,,Capitalized,School,Medium,Condition of success
+S13,"Falls es morgen regnet, bleiben wir zu Hause.","______ es morgen regnet, bleiben wir zu Hause.",Falls,Wenn,Capitalized; conditional; verb-last,Nature,Medium,Conditional subordinator
+S13,"Nimm einen Schirm mit, falls es später regnet.","Nimm einen Schirm mit, ______ es später regnet.",falls,wenn / sofern,Verb at end,Everyday,Easy,Precaution condition
+S13,"Falls du Fragen hast, kannst du mich jederzeit fragen.","______ du Fragen hast, kannst du mich jederzeit fragen.",Falls,Wenn,Capitalized,School,Easy,Offer under condition
+S13,"Wir treffen uns beim Eingang, falls wir uns verlieren.","Wir treffen uns beim Eingang, ______ wir uns verlieren.",falls,wenn,,Travel,Medium,Backup plan
+S13,"Falls die Prüfung schwierig wird, bleib bitte trotzdem ruhig.","______ die Prüfung schwierig wird, bleib bitte trotzdem ruhig.",Falls,Wenn,Capitalized,School,Medium,Conditional advice
+S14,"Ich erkläre es langsam, damit alle es verstehen.","Ich erkläre es langsam, ______ alle es verstehen.",damit,,Purpose; different subjects; verb-last,School,Medium,Purpose subordinator
+S14,"Sie übt jeden Tag, damit sie die Prüfung besteht.","Sie übt jeden Tag, ______ sie die Prüfung besteht.",damit,,Verb at end,School,Medium,Goal clause
+S14,"Wir gingen früh los, damit wir den Bus nicht verpassten.","Wir gingen früh los, ______ wir den Bus nicht verpassten.",damit,,,Travel,Medium,Purpose of action
+S14,"Zieh dir eine Jacke an, damit du nicht frierst.","Zieh dir eine Jacke an, ______ du nicht frierst.",damit,,,Everyday,Easy,Protective purpose
+S14,"Der Lehrer wiederholte die Regel, damit sie niemand vergass.","Der Lehrer wiederholte die Regel, ______ sie niemand vergass.",damit,,,School,Challenging,Teaching purpose
+S15,"Da es schon dunkel war, machten wir das Licht an.","______ es schon dunkel war, machten wir das Licht an.",Da,Weil,Capitalized; reason (often known); verb-last,Everyday,Medium,Reason subordinator
+S15,"Da wir wenig Zeit hatten, nahmen wir den direkten Weg.","______ wir wenig Zeit hatten, nahmen wir den direkten Weg.",Da,Weil,Capitalized,Travel,Medium,Known-reason clause
+S15,"Wir blieben zu Hause, da das Wetter schlecht war.","Wir blieben zu Hause, ______ das Wetter schlecht war.",da,weil,Verb at end,Nature,Easy,Reason for staying
+S15,"Da alle müde waren, machten wir eine Pause.","______ alle müde waren, machten wir eine Pause.",Da,Weil,Capitalized,Hobbies,Easy,Reason for break
+S15,"Da sie gut vorbereitet war, hatte sie keine Angst vor der Prüfung.","______ sie gut vorbereitet war, hatte sie keine Angst vor der Prüfung.",Da,Weil,Capitalized,School,Medium,Reason for confidence
+S16,"Ich weiss nicht, ob er heute kommt.","Ich weiss nicht, ______ er heute kommt.",ob,,Indirect yes/no question; verb-last; NOT 'wenn',Everyday,Medium,Indirect question subordinator
+S16,"Sie fragte, ob wir Lust auf ein Spiel hätten.","Sie fragte, ______ wir Lust auf ein Spiel hätten.",ob,,Verb at end,Hobbies,Medium,Reported question
+S16,"Wir sind nicht sicher, ob der Zug pünktlich ist.","Wir sind nicht sicher, ______ der Zug pünktlich ist.",ob,,,Travel,Medium,Uncertainty clause
+S16,"Er überlegte, ob er die schwierige Aufgabe zuerst lösen sollte.","Er überlegte, ______ er die schwierige Aufgabe zuerst lösen sollte.",ob,,,School,Challenging,Deliberation clause
+S16,"Kannst du nachschauen, ob noch Milch im Kühlschrank ist?","Kannst du nachschauen, ______ noch Milch im Kühlschrank ist?",ob,,,Everyday,Easy,Checking whether
+S10,"Seitdem er ein Handy hat, ruft er seine Grossmutter oft an.","______ er ein Handy hat, ruft er seine Grossmutter oft an.",Seitdem,Seit,Capitalized; ongoing since past; verb-last,Family,Medium,Since-time subordinator
+S10,"Seitdem sie im Verein ist, trainiert sie dreimal pro Woche.","______ sie im Verein ist, trainiert sie dreimal pro Woche.",Seitdem,Seit,Capitalized,Hobbies,Medium,Ongoing-since clause
+S10,"Er schreibt bessere Aufsätze, seitdem er viel liest.","Er schreibt bessere Aufsätze, ______ er viel liest.",seitdem,seit,Verb at end,School,Medium,Improvement since
+S10,"Seitdem wir umgezogen sind, habe ich einen kürzeren Schulweg.","______ wir umgezogen sind, habe ich einen kürzeren Schulweg.",Seitdem,Seit,Capitalized,Everyday,Medium,Change since move
+S10,"Seitdem der neue Spielplatz offen ist, spielen dort viele Kinder.","______ der neue Spielplatz offen ist, spielen dort viele Kinder.",Seitdem,Seit,Capitalized,Everyday,Easy,Since-opening clause
+A06,"Er lernte den ganzen Tag, ausserdem half er noch im Haushalt.","Er lernte den ganzen Tag, ______ half er noch im Haushalt.",ausserdem,zudem,Additive adverb; inversion follows,School & Home,Medium,Additive adverb inversion
+A06,"Das Hotel war günstig, ausserdem lag es sehr zentral.","Das Hotel war günstig, ______ lag es sehr zentral.",ausserdem,zudem,Inversion,Travel,Medium,Adding a point
+A06,"Sie spielt Klavier, ausserdem singt sie im Schulchor.","Sie spielt Klavier, ______ singt sie im Schulchor.",ausserdem,zudem,,Hobbies,Easy,Extra information
+A06,"Der Ausflug war lehrreich, ausserdem hat er grossen Spass gemacht.","Der Ausflug war lehrreich, ______ hat er grossen Spass gemacht.",ausserdem,zudem,,School,Medium,Additional benefit
+A06,"Es war kalt, ausserdem blies ein starker Wind.","Es war kalt, ______ blies ein starker Wind.",ausserdem,zudem,,Nature,Easy,Adding a condition
+A07,"Der Plan klingt gut, allerdings ist er ziemlich teuer.","Der Plan klingt gut, ______ ist er ziemlich teuer.",allerdings,jedoch,Limiting adverb; inversion,Everyday,Medium,Limiting adverb inversion
+A07,"Sie ist sehr begabt, allerdings übt sie zu wenig.","Sie ist sehr begabt, ______ übt sie zu wenig.",allerdings,jedoch,Inversion,School,Medium,Concessive limitation
+A07,"Die Wanderung war schön, allerdings war sie ziemlich anstrengend.","Die Wanderung war schön, ______ war sie ziemlich anstrengend.",allerdings,jedoch,Swiss outdoor context,Nature & Travel,Medium,Qualifying statement
+A07,"Das Spiel hat Spass gemacht, allerdings haben wir knapp verloren.","Das Spiel hat Spass gemacht, ______ haben wir knapp verloren.",allerdings,jedoch,,Hobbies,Medium,Limiting a positive
+A07,"Der Kuchen sieht lecker aus, allerdings ist er sehr süss.","Der Kuchen sieht lecker aus, ______ ist er sehr süss.",allerdings,jedoch,,Everyday,Easy,Adding a reservation
+A08,"Wir machten zuerst die Hausaufgaben. Danach durften wir spielen.","Wir machten zuerst die Hausaufgaben. ______ durften wir spielen.",Danach,Dann,'dann' is interchangeable here; NOT 'nachdem',Everyday,Medium,Temporal sequence adverb
+A08,"Zuerst frühstückten wir, danach packten wir die Rucksäcke.","Zuerst frühstückten wir, ______ packten wir die Rucksäcke.",danach,dann,'dann' interchangeable,Travel,Medium,Chronological adverb
+A08,"Sie las das Kapitel. Danach beantwortete sie die Fragen.","Sie las das Kapitel. ______ beantwortete sie die Fragen.",Danach,Dann,'dann' interchangeable,School,Medium,After-that sequence
+A08,"Wir besuchten das Museum, danach gingen wir ein Eis essen.","Wir besuchten das Museum, ______ gingen wir ein Eis essen.",danach,dann / später,Sequence with a real gap: 'dann' and 'später' both fit,Hobbies,Easy,Sequence of activities
+A08,"Er wärmte sich auf. Danach begann das eigentliche Training.","Er wärmte sich auf. ______ begann das eigentliche Training.",Danach,Dann,'dann' interchangeable,Hobbies,Medium,Ordered steps
+A09,"Zuerst rührst du den Teig, dann gibst du ihn in den Ofen.","Zuerst rührst du den Teig, ______ gibst du ihn in den Ofen.",dann,danach,'danach' interchangeable,Everyday,Easy,Sequential adverb
+A09,"Wir packten alles ein, dann fuhren wir los.","Wir packten alles ein, ______ fuhren wir los.",dann,danach,'danach' interchangeable,Travel,Easy,Next-step adverb
+A09,"Lies zuerst die Aufgabe, dann beginne mit der Lösung.","Lies zuerst die Aufgabe, ______ beginne mit der Lösung.",dann,danach,'danach' interchangeable,School,Easy,Instruction sequence
+A09,"Wir schauten uns um, dann entschieden wir uns für den Weg.","Wir schauten uns um, ______ entschieden wir uns für den Weg.",dann,danach,'danach' interchangeable,Nature & Travel,Medium,Decision sequence
+A09,"Erst putzt du die Zähne, dann gehst du ins Bett.","Erst putzt du die Zähne, ______ gehst du ins Bett.",dann,danach,'danach' interchangeable,Family,Easy,Routine order
+A10,"Wir diskutierten lange. Schliesslich einigten wir uns auf einen Plan.","Wir diskutierten lange. ______ einigten wir uns auf einen Plan.",Schliesslich,,Concluding adverb; inversion,School,Medium,Concluding adverb
+A10,"Sie suchte überall, schliesslich fand sie den Schlüssel im Garten.","Sie suchte überall, ______ fand sie den Schlüssel im Garten.",schliesslich,,Inversion,Everyday,Medium,Final-outcome adverb
+A10,"Nach vielen anstrengenden Stunden und tausend Höhenmetern erreichten wir schliesslich den lang ersehnten Gipfel.","Nach vielen anstrengenden Stunden und tausend Höhenmetern erreichten wir ______ den lang ersehnten Gipfel.",schliesslich,,'lang ersehnt' + long effort force 'finally/at last'; neutral 'später/dann' unsuitable,Nature & Travel,Medium,Reaching a conclusion
+A10,"Er überlegte hin und her, schliesslich traf er eine Entscheidung.","Er überlegte hin und her, ______ traf er eine Entscheidung.",schliesslich,,,Everyday,Medium,Final decision
+A10,"Das Team kämpfte hart, schliesslich gewann es das Turnier.","Das Team kämpfte hart, ______ gewann es das Turnier.",schliesslich,,,Hobbies,Medium,Ultimate result
+A11,"Wir sassen ruhig am See. Plötzlich sprang ein Fisch aus dem Wasser.","Wir sassen ruhig am See. ______ sprang ein Fisch aus dem Wasser.",Plötzlich,,Narrative surprise adverb; inversion,Nature,Medium,Narrative surprise adverb
+A11,"Alles war still, plötzlich klingelte laut das Telefon.","Alles war still, ______ klingelte laut das Telefon.",plötzlich,,Inversion,Everyday,Easy,Sudden event
+A11,"Wir gingen den Weg entlang, plötzlich stand ein Reh vor uns.","Wir gingen den Weg entlang, ______ stand ein Reh vor uns.",plötzlich,,Swiss nature context,Nature & Travel,Medium,Unexpected encounter
+A11,"Das Spiel war ausgeglichen. Plötzlich fiel das entscheidende Tor.","Das Spiel war ausgeglichen. ______ fiel das entscheidende Tor.",Plötzlich,,,Hobbies,Medium,Turning point
+A11,"Sie las gemütlich, plötzlich ging das Licht aus.","Sie las gemütlich, ______ ging das Licht aus.",plötzlich,,,Everyday,Easy,Sudden change
+A12,"Zuerst wärmen wir uns auf, dann beginnen wir mit dem Training.","______ wärmen wir uns auf, dann beginnen wir mit dem Training.",Zuerst,Erst / Zunächst,Sequence-start; 'erst'/'zunächst' interchangeable,Hobbies,Easy,Sequence-start adverb
+A12,"Zuerst liest du die Anleitung, danach baust du das Modell.","______ liest du die Anleitung, danach baust du das Modell.",Zuerst,Erst / Zunächst,'erst'/'zunächst' interchangeable,School,Easy,First-step adverb
+A12,"Zuerst begrüsste uns die Lehrerin, dann begann der Unterricht.","______ begrüsste uns die Lehrerin, dann begann der Unterricht.",Zuerst,Zunächst,'zunächst' interchangeable,School,Medium,Opening step
+A12,"Zuerst packten wir die Zelte ein, danach räumten wir den Platz auf.","______ packten wir die Zelte ein, danach räumten wir den Platz auf.",Zuerst,Erst / Zunächst,'erst'/'zunächst' interchangeable,Travel & Nature,Medium,Ordered actions
+A12,"Zuerst wäschst du dir die Hände, dann setzt du dich an den Tisch.","______ wäschst du dir die Hände, dann setzt du dich an den Tisch.",Zuerst,Erst / Zunächst,'erst'/'zunächst' interchangeable,Family,Easy,Routine first step
+A13,"Wir machten die Hausaufgaben und gingen später auf den Spielplatz.","Wir machten die Hausaufgaben und gingen ______ auf den Spielplatz.",später,danach / dann,Sequence with gap: 'danach'/'dann' also fit,Everyday,Easy,Later-time adverb
+A13,"Zuerst waren wir müde, später wurden wir wieder munter.","Zuerst waren wir müde, ______ wurden wir wieder munter.",später,dann,Development over time; 'dann' also fits,Everyday,Medium,Time-progress adverb
+A13,"Wir besichtigten die Altstadt und assen später in einem Restaurant.","Wir besichtigten die Altstadt und assen ______ in einem Restaurant.",später,danach / dann,Sequence with gap: 'danach'/'dann' also fit,Travel,Easy,Sequence in a trip
+A13,"Er übte zuerst allein, später spielte er im Orchester mit.","Er übte zuerst allein, ______ spielte er im Orchester mit.",später,danach / dann,'danach'/'dann' also fit,Hobbies,Medium,Progression over time
+A13,"Wir starteten früh und erreichten später die Berghütte.","Wir starteten früh und erreichten ______ die Berghütte.",später,danach / dann,'danach'/'dann' also fit,Nature & Travel,Medium,Later arrival
+A14,"Beeil dich, sonst verpassen wir den Bus.","Beeil dich, ______ verpassen wir den Bus.",sonst,,Alternative-consequence adverb; inversion,Travel,Easy,Otherwise adverb
+A14,"Du musst mehr üben, sonst bestehst du die Prüfung nicht.","Du musst mehr üben, ______ bestehst du die Prüfung nicht.",sonst,,Inversion,School,Medium,Warning consequence
+A14,"Zieh eine Jacke an, sonst wirst du krank.","Zieh eine Jacke an, ______ wirst du krank.",sonst,,,Everyday,Easy,Precaution warning
+A14,"Wir müssen jetzt gehen, sonst wird es zu spät.","Wir müssen jetzt gehen, ______ wird es zu spät.",sonst,,,Everyday,Easy,Time warning
+A14,"Nimm genug Wasser mit, sonst bekommst du unterwegs Durst.","Nimm genug Wasser mit, ______ bekommst du unterwegs Durst.",sonst,,Swiss hiking context,Nature & Travel,Medium,Preventive advice
+A15,"Ich deckte den Tisch, inzwischen kochte meine Mutter das Essen.","Ich deckte den Tisch, ______ kochte meine Mutter das Essen.",inzwischen,unterdessen,Parallel immediate actions: 'mittlerweile' excluded (implies a longer shift),Family,Medium,Meanwhile adverb inversion
+A15,"Die Gäste kamen später, inzwischen bereiteten wir alles vor.","Die Gäste kamen später, ______ bereiteten wir alles vor.",inzwischen,unterdessen,Parallel prep; 'mittlerweile' excluded (implies a longer shift),Everyday,Medium,Parallel-time adverb
+A15,"Er trainierte hart, inzwischen wurde er deutlich schneller.","Er trainierte hart, ______ wurde er deutlich schneller.",inzwischen,mittlerweile,Progress over time,Hobbies,Medium,Development over time
+A15,"Wir warteten auf den Zug, inzwischen assen wir ein Sandwich.","Wir warteten auf den Zug, ______ assen wir ein Sandwich.",inzwischen,unterdessen,Filling a wait; 'mittlerweile' excluded (implies a longer shift),Travel,Easy,Filling the wait
+A15,"Sie las ein Buch, inzwischen wurde es draussen dunkel.","Sie las ein Buch, ______ wurde es draussen dunkel.",inzwischen,mittlerweile,,Everyday,Medium,Passing time
+A17,"Entweder du kommst jetzt mit, oder du bleibst allein zu Hause.","______ du kommst jetzt mit, oder du bleibst allein zu Hause.",Entweder,,First part of entweder-oder; here the isolated first element,Family,Medium,Alternative first element
+A17,"Entweder wir nehmen den Zug, oder wir fahren mit dem Auto.","______ wir nehmen den Zug, oder wir fahren mit dem Auto.",Entweder,,Isolated first part,Travel,Medium,Choice opener
+A17,"Entweder wir gewinnen heute, oder wir üben noch härter.","______ wir gewinnen heute, oder wir üben noch härter.",Entweder,,Capitalized,Hobbies,Medium,Alternative opener
+A17,"Entweder du entscheidest dich jetzt, oder ich wähle für dich.","______ du entscheidest dich jetzt, oder ich wähle für dich.",Entweder,,,Everyday,Medium,Forcing a choice
+A17,"Entweder wir lösen die Aufgabe gemeinsam, oder jeder rechnet allein.","______ wir lösen die Aufgabe gemeinsam, oder jeder rechnet allein.",Entweder,,,School,Medium,Paired opener
+P03,"Sie ist sehr musikalisch und spielt sowohl Klavier als auch Geige.","Sie ist sehr musikalisch und spielt ______ Klavier ______ Geige.",sowohl ... als auch,,Positive context ('musikalisch') forces the both-and reading,Hobbies,Medium,Paired addition
+P03,"An diesem vollen Ausflugstag besuchten wir sowohl das Museum als auch den Zoo.","An diesem vollen Ausflugstag besuchten wir ______ das Museum ______ den Zoo.",sowohl ... als auch,,'vollen Ausflugstag' forces both-and,Travel,Easy,Both-and pairing
+P03,"Er ist ein echtes Vorbild und sowohl im Sport als auch in der Schule sehr gut.","Er ist ein echtes Vorbild und ______ im Sport ______ in der Schule sehr gut.",sowohl ... als auch,,'Vorbild ... sehr gut' rules out neither-nor,School & Hobbies,Medium,Equal positive pairing
+P03,"Für einen guten Kuchen braucht man unbedingt sowohl Mehl als auch Zucker.","Für einen guten Kuchen braucht man unbedingt ______ Mehl ______ Zucker.",sowohl ... als auch,,'unbedingt braucht man' rules out neither-nor,Everyday,Easy,Ingredient pairing
+P03,"Die lange Bergtour war eindrücklich: Sie war sowohl anstrengend als auch wunderschön.","Die lange Bergtour war eindrücklich: Sie war ______ anstrengend ______ wunderschön.",sowohl ... als auch,,'eindrücklich' rules out neither-nor; Swiss context,Nature & Travel,Medium,Two-quality pairing
+P04,"Sie ist nicht nur klug, sondern auch sehr fleissig.","Sie ist ______ klug, ______ sehr fleissig.",nicht nur ... sondern auch,,Two blanks; emphatic addition; comma before sondern,School,Challenging,Emphatic paired addition
+P04,"Wir haben nicht nur gelernt, sondern auch viel gelacht.","Wir haben ______ gelernt, ______ viel gelacht.",nicht nur ... sondern auch,,Two blanks; comma before sondern,School,Medium,Not-only-but-also
+P04,"Der Ausflug war nicht nur lehrreich, sondern auch lustig.","Der Ausflug war ______ lehrreich, ______ lustig.",nicht nur ... sondern auch,,Comma before sondern,School,Medium,Two-benefit emphasis
+P04,"Er hilft nicht nur zu Hause, sondern auch im Verein.","Er hilft ______ zu Hause, ______ im Verein.",nicht nur ... sondern auch,,Comma before sondern,Family & Hobbies,Medium,Wide-scope help
+P04,"Das Buch ist nicht nur spannend, sondern auch lehrreich.","Das Buch ist ______ spannend, ______ lehrreich.",nicht nur ... sondern auch,,Comma before sondern,Everyday,Medium,Book with two qualities
+P05,"Die Aufgabe war zwar schwierig, aber sehr interessant.","Die Aufgabe war ______ schwierig, ______ sehr interessant.",zwar ... aber,,Two blanks; concede then limit; comma before aber,School,Challenging,Concessive pairing
+P05,"Der Weg war zwar lang, aber landschaftlich schön.","Der Weg war ______ lang, ______ landschaftlich schön.",zwar ... aber,,Two blanks; Swiss context; comma before aber,Nature & Travel,Medium,Concede-then-limit
+P05,"Das Zimmer ist zwar klein, aber sehr gemütlich.","Das Zimmer ist ______ klein, ______ sehr gemütlich.",zwar ... aber,,Comma before aber,Everyday,Medium,Small-but-cozy
+P05,"Er ist zwar noch jung, aber schon sehr verantwortungsvoll.","Er ist ______ noch jung, ______ schon sehr verantwortungsvoll.",zwar ... aber,,Comma before aber,Family,Medium,Young-but-responsible
+P05,"Das Spiel war zwar knapp, aber am Ende haben wir es verdient gewonnen.","Das Spiel war ______ knapp, ______ am Ende haben wir es verdient gewonnen.",zwar ... aber,,Swiss sports context; comma before aber; subject 'wir es' added,Hobbies,Medium,Close-but-deserved

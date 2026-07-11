@@ -269,19 +269,21 @@ put the input field where the result goes.
 ## 8. File structure (no build step)
 
 ```
-/index.html
-/css/styles.css
-/js/
-  app.js            // bootstrap, screen router
-  settings.js       // setup screen + reading options
-  generator.js      // the chain generator + rationals
-  rational.js       // exact fraction arithmetic
-  operations.js     // operation catalog + apply/format
-  answer.js         // parse + strict equality
-  session.js        // solving flow, timer
-  report.js         // report + retry + scoring
-  db.js             // IndexedDB wrapper
-/images/            // reference screenshots (dev only)
+/math/
+  zahlenreihen.html
+  js/
+    app.js            // bootstrap, screen router
+    settings.js       // setup screen + reading options
+    generator.js      // the chain generator + rationals
+    rational.js       // exact fraction arithmetic
+    operations.js     // operation catalog + apply/format
+    answer.js         // parse + strict equality
+    session.js        // solving flow, timer
+    report.js         // report + retry + scoring
+    db.js             // IndexedDB wrapper
+  test/               // Node self-tests (engine, flow)
+  images/             // reference screenshots (dev only)
+/css/styles.css       // shared theme (site-wide)
 ```
 
 Loaded as ES modules (`<script type="module">`) — works from a static host, no
